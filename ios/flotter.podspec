@@ -14,6 +14,6 @@ Flotter is a plugin allowing you to use Lottie AnimationViews inside of Flutter,
   s.dependency 'Flutter'
   s.dependency 'lottie-ios'
 
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '9.0'
 end
 
